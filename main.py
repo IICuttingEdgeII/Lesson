@@ -1,4 +1,5 @@
 # Lesson 1- Data Types
+# https://github.com/IICuttingEdgeII/Lesson
 # Strings
 n = "sun"
 m = "day"
@@ -12,6 +13,12 @@ d = 6.1
 # True or False
 e = True
 f = False
+# Array / List
+example = ["one", "two", 3, 4]
+cities = ["London", "New York", "Tokyo"]
+city = "London"
+print(cities[-2])
+
 
 # def addition(a, b):
 #
